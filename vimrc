@@ -64,8 +64,8 @@ filetype indent on
 syntax on
 
 "some stuff to get the mouse going in term
-set mouse=a
-set ttymouse=xterm2
+"set mouse=a
+"set ttymouse=xterm2
 
 "tell the term has 256 colors
 set t_Co=256
